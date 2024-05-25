@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EmilysWRLD
+- 👋 Hi, I’m @hollowminded
 - 👀 I’m interested in Programming, Computer Science, Video games.
-- 🌱 I’m currently learning Java, Lua
-- 💞️ In the future I want to learn C++, Cyber Security
+- 🌱 I’m currently learning C++, C#
+- 💞️ In the future I want get deeper into Cyber Security.
 - 📫 How to reach me ...
 Discord: @hollowminded
 
